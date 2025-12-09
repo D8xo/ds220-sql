@@ -153,3 +153,5 @@ INSERT INTO Scoring (ScoringID, GameID, PlayerID, Quarter, Yards, Points, Remark
 (105, 12, 122, 4, 0.0, 1, 'PAT Kick'),
 (106, 12, 122, 4, 25.0, 3, 'FG'),
 (107, 12, 122, 4, 0.0, 1, 'PAT Kick');
+
+--- 1
